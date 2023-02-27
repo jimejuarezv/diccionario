@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html{
+    font size: 10px;
+    font-family:monospace;
+    .contenido{
+        width: 100rem;
+        height: 100vh;
+        border: 1px solid rgba(168, 30, 71, 0.349)
+        margin: auto 
+        padding: 5rem 10rem
+
+        margin:auto;
+        .lista-propiedades
+        list-style-type: none;
+        font-size:1.8rem;
+
+        .articulo{
+            padding: 2rem;
+            width: 70;
+
+
+        }
+}

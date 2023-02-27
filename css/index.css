@@ -1,0 +1,55 @@
+.header{
+    background-color: rgb(255, 255, 255);
+    width: 100%;
+    height: 6rem;
+    padding: 0rem 5rem ;
+    border-bottom: 0.1rem solid rgb(0, 0, 0);
+  }
+  .ico{
+    width: 4rem;
+    float: left;
+  }
+  .usuario{
+    color: rgb(0, 0, 0);
+    font-size: 2.3rem;
+    font-weight: 600;
+    float: left;
+    margin-left: 2rem;
+    margin-top: 1rem;
+    text-align: ;
+  }
+  
+  en html
+  
+  <!DOCTYPE html>
+  <html lang="es">
+  <head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+  <link rel="stylesheet" href="./css/index.css">
+  <link rel="stylesheet" href="./css/confi.css">
+  
+  <!-- Google fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,700&display=swap" rel="stylesheet">
+  
+  </head>
+  <body>
+    <!-- Todo el contenido de mi pagina -->
+  
+    <header class="header">
+        <img src="https://images.vexels.com/media/users/3/135729/isolated/preview/d09f185e1e94cbc95cfbba1808a0cbdc-icono-de-computadora-plana.png" alt="" class="ico">
+        <p class="usuario">jimejuarezv</p>
+}lista-propiedades 
+list-stile
+           
+    </header>
+  </body>
+  </html>
+  
+  s
+    
+  
